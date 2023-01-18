@@ -1,28 +1,15 @@
 # Markdown in README.md
 
-Available via starboardincubator.github.io
-
-List
-- a
-- b
-- c
-
-List with links
-- [news](https://news.google.com)
-- b
-- c
-
-Github.io [themes](https://pages.github.com/themes/) to choose from.
-
 The three themes that look reasonable are:
 - Hacker
 - Leap Day
 - Midnight 
 
-Decide which one and go with it.
+Other Github.io [themes](https://pages.github.com/themes/) to choose from.
 
-==
-Clean up this list of AI related bookmarks:
+--- 
+
+List of AI related bookmarks:
 
 - https://lexica.art/
 - https://docs.banana.dev/banana-docs/
@@ -40,7 +27,5 @@ Stable Diffusion:
 - [Stable Diffusion Prompt Generator - Gumroad](https://andrewongai.gumroad.com/l/stable_diffusion_prompt_generator)
 
 - https://github.com/kiri-art/docker-diffusers-api
-- https://www.reddit.com/r/StableDiffusion/comments/zdgcq0/automatic1111stablediffusionwebui_is_now/
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
-
-
+- [Redit automatic1111] (https://www.reddit.com/r/StableDiffusion/comments/zdgcq0/automatic1111stablediffusionwebui_is_now/)
