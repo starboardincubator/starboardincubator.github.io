@@ -28,4 +28,4 @@ Stable Diffusion:
 
 - https://github.com/kiri-art/docker-diffusers-api
 - https://github.com/AUTOMATIC1111/stable-diffusion-webui
-- [Redit automatic1111] (https://www.reddit.com/r/StableDiffusion/comments/zdgcq0/automatic1111stablediffusionwebui_is_now/)
+- [Redit automatic1111](https://www.reddit.com/r/StableDiffusion/comments/zdgcq0/automatic1111stablediffusionwebui_is_now/)
